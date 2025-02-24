@@ -25,6 +25,7 @@ Through several test driving data, a function was derived using linear interpola
 
 ### 2) Object Detection (FAILED)
 To handle both static and dynamic obstacles, we planned to use artificial intelligence learning model. We trained YOLOv8n with custom dataset from test driving data and pictures of obstacles we took ourselves.
+(Here's link for custom training in colab: https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb)
 However, this model(_best_v8n_x100_final.pt_) was too heavy to run on RaspberryPi Zero 2W and also too slow even if we running on a PC using socket.
 
 ### 3) Ultrasonic Sensor
