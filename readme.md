@@ -6,6 +6,17 @@
 <a href="https://youtu.be/U8neLkONT78?t=11637"><img src="https://github.com/user-attachments/assets/d4757f2f-fb76-4cde-954e-19eea2649775" width="70%"></a>
 </p>
 
+## 0. Overview
+
+|  |  |
+| :-: | :-: |
+| Period | 2024.01.24. ~ 2024.02.15. (3 weeks) |
+| Members | 2 people |
+| Language | python 3.9.0 |
+| IDE | Visual Studio Code |
+| OS | Raspberry Pi OS |
+<br>
+
 
 ## 1. Problem
 
