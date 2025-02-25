@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&width=1000&height=200&text=AUTONOMOUS%20ver.1&fontSize=54&fontAlignY=42&desc=Using%20RaspberryPi%20Zero%202W&descSize=22&descAlignY=62&stroke=0072ff)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&width=1000&height=200&text=AUTONOMOUS%20ver.1&fontSize=54&fontAlignY=42&desc=Using%20RaspberryPi%20Zero%202W&descSize=22&descAlignY=62&stroke=0065ff&strokeWidth=2)
 
 ### All the details refer to _presentation.pdf_
 <br>
